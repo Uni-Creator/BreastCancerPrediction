@@ -1,4 +1,5 @@
 # Breast Cancer Prediction App
+![GitHub Repo stars](https://img.shields.io/github/stars/Uni-Creator/BreastCancerPrediction?style=social)  ![GitHub forks](https://img.shields.io/github/forks/Uni-Creator/BreastCancerPrediction?style=social)
 
 ## 📌 Overview
 The **Breast Cancer Prediction App** is a machine learning-based web application built using **Streamlit**. It allows users to input 30 feature values (or autofill a random row from the dataset) and predict whether the tumor is **Malignant** or **Benign** using multiple ML models. Additionally, the app displays the prediction confidence scores of each model and visualizes them using a bar chart.
